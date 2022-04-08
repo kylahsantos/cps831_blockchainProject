@@ -1,130 +1,66 @@
 [
   {
     "id": 0,
-    "name": "Frieda",
-    "picture": "images/scottish-terrier.jpeg",
-    "age": 3,
-    "breed": "Scottish Terrier",
-    "location": "Lisco, Alabama"
+    "name": "Pants",
+    "picture": "images/pants.jpg",
+    "age": 15,
+    "breed": "Nike Pants",
+    "location": "Nike"
   },
   {
     "id": 1,
-    "name": "Gina",
-    "picture": "images/scottish-terrier.jpeg",
-    "age": 3,
-    "breed": "Scottish Terrier",
-    "location": "Tooleville, West Virginia"
+    "name": "Sweater",
+    "picture": "images/mens-sweater.jpg",
+    "age": 23,
+    "breed": "A&F Men's Sweater",
+    "location": "Abercrombie and Fitch"
   },
   {
     "id": 2,
-    "name": "Collins",
-    "picture": "images/french-bulldog.jpeg",
-    "age": 2,
-    "breed": "French Bulldog",
-    "location": "Freeburn, Idaho"
+    "name": "Shorts",
+    "picture": "images/shorts.jpg",
+    "age": 20,
+    "breed": "H&M Shorts",
+    "location": "H&M"
   },
   {
     "id": 3,
-    "name": "Melissa",
-    "picture": "images/boxer.jpeg",
-    "age": 2,
-    "breed": "Boxer",
-    "location": "Camas, Pennsylvania"
+    "name": "Shirt",
+    "picture": "images/bluetee.jpg",
+    "age": 15,
+    "breed": "Adidas Blue T-Shirt",
+    "location": "Adidas"
   },
   {
     "id": 4,
-    "name": "Jeanine",
-    "picture": "images/french-bulldog.jpeg",
+    "name": "Shirt",
+    "picture": "images/blacktee.jpg",
     "age": 2,
-    "breed": "French Bulldog",
-    "location": "Gerber, South Dakota"
+    "breed": "New Balance Black T-shirt",
+    "location": "New Balance"
   },
   {
     "id": 5,
-    "name": "Elvia",
-    "picture": "images/french-bulldog.jpeg",
-    "age": 3,
-    "breed": "French Bulldog",
-    "location": "Innsbrook, Illinois"
+    "name": "Shirt",
+    "picture": "images/tshirt.png",
+    "age": 13,
+    "breed": "Nike T-shirt",
+    "location": "Nike"
   },
   {
     "id": 6,
-    "name": "Latisha",
-    "picture": "images/golden-retriever.jpeg",
+    "name": "Sweater",
+    "picture": "images/sweater.jpg",
     "age": 3,
     "breed": "Golden Retriever",
     "location": "Soudan, Louisiana"
   },
   {
     "id": 7,
-    "name": "Coleman",
-    "picture": "images/golden-retriever.jpeg",
+    "name": "Pants",
+    "picture": "images/pants.jpg",
     "age": 3,
-    "breed": "Golden Retriever",
-    "location": "Jacksonwald, Palau"
-  },
-  {
-    "id": 8,
-    "name": "Nichole",
-    "picture": "images/french-bulldog.jpeg",
-    "age": 2,
-    "breed": "French Bulldog",
-    "location": "Honolulu, Hawaii"
-  },
-  {
-    "id": 9,
-    "name": "Fran",
-    "picture": "images/boxer.jpeg",
-    "age": 3,
-    "breed": "Boxer",
-    "location": "Matheny, Utah"
-  },
-  {
-    "id": 10,
-    "name": "Leonor",
-    "picture": "images/boxer.jpeg",
-    "age": 2,
-    "breed": "Boxer",
-    "location": "Tyhee, Indiana"
-  },
-  {
-    "id": 11,
-    "name": "Dean",
-    "picture": "images/scottish-terrier.jpeg",
-    "age": 3,
-    "breed": "Scottish Terrier",
-    "location": "Windsor, Montana"
-  },
-  {
-    "id": 12,
-    "name": "Stevenson",
-    "picture": "images/french-bulldog.jpeg",
-    "age": 3,
-    "breed": "French Bulldog",
-    "location": "Kingstowne, Nevada"
-  },
-  {
-    "id": 13,
-    "name": "Kristina",
-    "picture": "images/golden-retriever.jpeg",
-    "age": 4,
-    "breed": "Golden Retriever",
-    "location": "Sultana, Massachusetts"
-  },
-  {
-    "id": 14,
-    "name": "Ethel",
-    "picture": "images/golden-retriever.jpeg",
-    "age": 2,
-    "breed": "Golden Retriever",
-    "location": "Broadlands, Oregon"
-  },
-  {
-    "id": 15,
-    "name": "Terry",
-    "picture": "images/golden-retriever.jpeg",
-    "age": 2,
-    "breed": "Golden Retriever",
-    "location": "Dawn, Wisconsin"
+    "breed": "Lululemon Pants",
+    "location": "Lululemon"
   }
 ]
