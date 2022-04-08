@@ -35,7 +35,7 @@
     "id": 4,
     "name": "Shirt",
     "picture": "images/blacktee.jpg",
-    "age": 2,
+    "age": 26,
     "breed": "New Balance Black T-shirt",
     "location": "New Balance"
   },
@@ -51,15 +51,15 @@
     "id": 6,
     "name": "Sweater",
     "picture": "images/sweater.jpg",
-    "age": 3,
-    "breed": "Golden Retriever",
-    "location": "Soudan, Louisiana"
+    "age": 50,
+    "breed": "American Eagle Sweater",
+    "location": "American Eagle Sweater"
   },
   {
     "id": 7,
     "name": "Pants",
     "picture": "images/pants.jpg",
-    "age": 3,
+    "age": 30,
     "breed": "Lululemon Pants",
     "location": "Lululemon"
   }
